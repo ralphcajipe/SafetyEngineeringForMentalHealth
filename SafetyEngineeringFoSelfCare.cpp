@@ -1,3 +1,4 @@
+// When I just want to be alone for awhile
 entryCode = lock.getEntryCode();
 if (entryCode == lock.authorizedCode)
 {
