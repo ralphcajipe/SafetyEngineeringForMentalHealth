@@ -1,4 +1,5 @@
 // a prototype: When I just want to be alone for awhile
+// surrounded by intelligent systems that can be trusted, e.g. jarvis
 entryCode = lock.getEntryCode();
 if (entryCode == lock.authorizedCode)
 {
